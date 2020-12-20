@@ -1,3 +1,12 @@
+# React Portfolio
+This is my react portfolio
+
+
+![Screenshot](public\reactportfolio.png)
+
+
+## Link to deployed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
